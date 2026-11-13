@@ -1,1 +1,22 @@
+*{
+  background: #DBEAFE;
+}
+/*
+للمنطقه الرئيسيه css كود
+*/
+.home{
+  background-image: url("home.jpg");
+}
+.welcome{
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
 
+.little{
+  text-align: center;
+  font-size: 35px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
